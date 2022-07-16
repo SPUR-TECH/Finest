@@ -1,0 +1,1 @@
+web: gunicorn finest.wsgi:application
